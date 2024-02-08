@@ -1,4 +1,5 @@
 rax-test
 rax-oom-test
+rax-play
 *.o
 *.dSYM
