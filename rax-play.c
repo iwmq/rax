@@ -1,3 +1,7 @@
+/*
+  The file is simply used for playing with rax functions via gdb without
+  running the entire redis server.
+*/
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
